@@ -1,0 +1,15 @@
+Controls:
+    - Play / Pause:
+        command: ~/dotfiles/media_control/bin/media_control/media_playpause
+        short: playpause
+        type: oneoff
+        keynum: 1
+    - Next Track:
+        command: ~/dotfiles/media_control/bin/media_control/media_nexttrack
+        short: nexttrack
+        type: oneoff
+        keynum: 2
+Layout: >
+    0000
+    0112
+    0002
