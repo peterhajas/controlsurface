@@ -23,7 +23,7 @@ This is a list specified by the Controls heading. Each element in this list has 
  - `type` - the type of control. Currently, only one-off controls (`oneoff`) are supported
  - `keynum` - a key for describing the position and size of the control. See **Layout** for more.
 
-Here's a sample Controls: section of a config file:
+Here's a sample Controls section of a config file:
 
     Controls:
         - Say Hello:
